@@ -20,10 +20,12 @@ These ML techniques were trained using low-level features, high-level features a
 
 ## ROC Curve
 
-XGBClassifier
+XGBClassifier for low, high and combination of low and high level features
+
 ![xgbclassifier](others/xgbclassifier.png)
 
-DNN
+DNN for low, high and combination of low and high level features
+
 ![DNN](others/dnn.png)
 
 ## References:
