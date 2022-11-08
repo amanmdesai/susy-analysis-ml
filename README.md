@@ -1,6 +1,6 @@
-# SUSY Searches
+# SUSY Search using ML Techniques
 
-SUSY searches using Machine Learning Techniques. The following ML techniques were used in the study:
+SUSY search using Machine Learning Techniques. The following ML techniques were used in the study:
 
 1. XGBClassifier (from XGBoost)
 2. Deep Neural Network
