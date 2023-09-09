@@ -1,4 +1,5 @@
 # SUSY Analysis using ML Techniques
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8069060.svg)](https://doi.org/10.5281/zenodo.8069060)
 
 SUSY analysis using Machine Learning Techniques. The following ML techniques were used in the study:
 
